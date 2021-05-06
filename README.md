@@ -40,7 +40,11 @@ Experimentamos trabajar bajo presión, esforzarnos por querer cumplir el plazo.
 Darnos motivación entre nosotras.
 Dejar fluir nuestros lazos de amistad.
  
-* ¿Qué aprendimos?
+### ¿Qué aprendimos?
+Entender el manejo de elementos >section> , <p>, <div>, <input>, <button>, <tabla> en html.
+Definir funciones en js que permitiran darle funcionalidad a nuestro botones y demas elementos.
+Manejamos mucho los atributos .style.display= 'none' y .style.display ='block' para mostrar y ocultar nuestros elementos.
+Aplicar diferentes estilos mediante las class a nuestra página.
 
 
 # Autores
