@@ -1,7 +1,7 @@
 # ¡GoouTrivia!
 
 
-### Descripción
+### Descripción :)
 
 En este proyecto se busca construir una trivia de preguntas, los temas que escogimos son: peliculas y música.
 
