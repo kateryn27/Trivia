@@ -12,7 +12,7 @@ Primero realizamos un boseto de como queriamos que quede el primer pantallazo de
 
 <img src='Whiteboard[1]-01.png'>
 
-
+<img src='Whiteboard[2]-01.png'>
 
 
 
