@@ -33,6 +33,16 @@ En este punto ya le empezamos a dar un poco de forma y color con el CSS al proye
 <img src='trivia-vista-final.JPG'>
 
 
+# Conclusiones
+* ¿Qué experimentamos?
+Esta semana sentimos una mezcla de emociones, por ratos alegres y encantadas, mientras por otros, paralizadas y pensativas.
+Experimentamos trabajar bajo presión, esforzarnos por querer cumplir el plazo.
+Darnos motivación entre nosotras.
+Dejar fluir nuestros lazos de amistad.
+ 
+* ¿Qué aprendimos?
+
+
 # Autores
 - Andrea Borja
 - Kateryn Flores
