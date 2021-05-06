@@ -22,6 +22,8 @@ De igual manera nos guió para organizar por secciones el HTML.
 <img src='inicios-html.JPG'>
 
 
+#Desarrollo
+
 ### Codeando
 
 Posterior a esto continuamos trabajando en las funciones y y botones.
