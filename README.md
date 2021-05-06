@@ -8,7 +8,7 @@ En este proyecto se busca construir una trivia de preguntas, los temas que escog
 
 ### Prototipo
 
-- Primero escogimos los dos temas de nuestra trivia: películas y música.
+- Primero escogimos el nombre de nuestro trivia y los dos temas: películas y música.
 
 - Posteriormente realizamos un boceto de como queriamos que quede el primer pantallazo de la trivia en el cual se muestra el nombre de nuestro proyecto y se le pide el nombre al usuario, quedando algo asi:
 <img src='Whiteboard[1]-01.png'>
@@ -20,11 +20,9 @@ En este proyecto se busca construir una trivia de preguntas, los temas que escog
 
 # Estructura
 
-dEFINIMOS
+Teniendo ya la idea básica de lo que queriamos plasmar nos pusimos a trabajar. Definimos todos los elementos que usaremos en el proyecto. Los creamos en html definimos su id y su class de cada uno.
 
-Teniendo ya la idea básica de lo que queriamos plasmar nos pusimos a trabajar. El primer inconveniente que tuvimos fue que al poner el nombre del usuario, este se mostrara luego en un mensaje; tras ver unos tutoriales y con la ayuda de la coach Genesis pudimos resolverlo satisfactoriamente. Aprendimos a extraer algo del HTML con el document.getElementById()
-
-De igual manera nos guió para organizar por secciones el HTML.
+Nuestra coach nos guió para organizar nuestros elemento por secciones el HTML.
 
 <img src='inicios-html.JPG'>
 
@@ -33,13 +31,17 @@ De igual manera nos guió para organizar por secciones el HTML.
 
 ### Codeando
 
-Posterior a esto continuamos trabajando en las funciones y y botones.
+El primer inconveniente que tuvimos fue que al poner el nombre del usuario, este se mostrara luego en un mensaje; tras ver unos tutoriales y con la ayuda de la coach Genesis pudimos resolverlo satisfactoriamente. Aprendimos a extraer algo del HTML con el document.getElementById()
+
+Posterior a esto continuamos trabajando en creando las funciones que aplicaran nuestros botones en JS.
 
 En este punto ya le empezamos a dar un poco de forma y color con el CSS al proyecto. Para ambas también fue nuevo el trabajar en el CSS, pero sin mucha complicación. Emocionadas por lo que ibamos logrando, pasamos a resolver la parte de las preguntas y respuestas de la trivia.
 
 <img src='codeando.JPG'>
 
 # Resultado
+
+Nuestro esfuerzo y nuestras ganas hicieron nacer a nuestra trivia :)!! que se ve muy parecida a como pensamos inicialmente
 
 <img src='trivia-vista-final.JPG'>
 
@@ -50,6 +52,7 @@ En este punto ya le empezamos a dar un poco de forma y color con el CSS al proye
 - Experimentamos trabajar bajo presión, esforzarnos por querer cumplir el plazo.
 - Darnos motivación entre nosotras.
 - Dejamos fluir nuestros lazos de amistad.
+
  
 ### ¿Qué aprendimos?
 - Entender el manejo de elementos **\<section\>, \<h\>, \<p\>, \<div>\, \<input\>, \<button\>, \<tabla\>** en html.
