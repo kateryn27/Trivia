@@ -1,5 +1,7 @@
 # GOTrivia
-Autores: Andrea Borja y Kateryn
+Autores: Andrea Borja y Kateryn Flores
+
+### Descripción
 
 En este proyecto se busca construir una trivia de preguntas, los temas son sobre peliculas y música.
 
