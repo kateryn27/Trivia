@@ -22,7 +22,7 @@ De igual manera nos guió para organizar por secciones el HTML.
 <img src='inicios-html.JPG'>
 
 
-#Desarrollo
+# Desarrollo
 
 ### Codeando
 
