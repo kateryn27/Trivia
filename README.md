@@ -1,4 +1,4 @@
-# GOTrivia
+# ¡GoouTrivia!
 
 
 ### Descripción
