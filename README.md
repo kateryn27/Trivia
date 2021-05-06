@@ -13,6 +13,8 @@ Teniendo ya la idea básica de lo que queriamos plasmar nos pusimos a trabajar. 
 
 De igual manera nos guió para organizar por secciones el HTML.
 
+<img src='inicios-html.JPG'> 
+
 Posterior a esto continuamos trabajando en las funciones y y botones.
 
 En este punto ya le empezamos a dar un poco de forma y color con el CSS al proyecto. Para ambas también fue nuevo el trabajar en el CSS, pero sin mucha complicación. Emocionadas por lo que ibamos logrando, pasamos a resolver la parte de las preguntas y respuestas de la trivia.
