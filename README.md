@@ -41,7 +41,7 @@ En este punto ya le empezamos a dar un poco de forma y color con el CSS al proye
 
 # Resultado
 
-Nuestro esfuerzo y nuestras ganas hicieron nacer a nuestra trivia :)!! que se ve muy parecida a como pensamos inicialmente
+Nuestro esfuerzo y nuestras ganas hicieron nacer a nuestra trivia :)!! que se ve muy parecida a como pensamos inicialmente...
 
 <img src='trivia-vista-final.JPG'>
 
