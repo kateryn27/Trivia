@@ -8,9 +8,13 @@ En este proyecto se busca construir una trivia de preguntas, los temas que escog
 
 ### Prototipo
 
-Primero realizamos un boseto de como queriamos que quede el primer pantallazo de la trivia en el cual se muestra el nombre de nuestro proyecto y se le pide el nombre al usuario, quedando algo asi:
+- Primero escogimos los dos temas de nuestra trivia: películas y música.
+
+- Posteriormente realizamos un boceto de como queriamos que quede el primer pantallazo de la trivia en el cual se muestra el nombre de nuestro proyecto y se le pide el nombre al usuario, quedando algo asi:
 
 <img src='Whiteboard[1]-01.png'>
+
+Posteriormente tambien dibujamos una vista de las preguntas con los botones de respuesta.
 
 <img src='Whiteboard[2]-01.png'>
 
