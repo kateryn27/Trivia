@@ -20,6 +20,8 @@ En este proyecto se busca construir una trivia de preguntas, los temas que escog
 
 # Estructura
 
+dEFINIMOS
+
 Teniendo ya la idea básica de lo que queriamos plasmar nos pusimos a trabajar. El primer inconveniente que tuvimos fue que al poner el nombre del usuario, este se mostrara luego en un mensaje; tras ver unos tutoriales y con la ayuda de la coach Genesis pudimos resolverlo satisfactoriamente. Aprendimos a extraer algo del HTML con el document.getElementById()
 
 De igual manera nos guió para organizar por secciones el HTML.
