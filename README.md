@@ -3,12 +3,15 @@
 
 ### Descripción
 
-En este proyecto se busca construir una trivia de preguntas, los temas son sobre peliculas y música.
+En este proyecto se busca construir una trivia de preguntas, los temas que escogimos son: peliculas y música.
+
 
 ### Prototipo
+
 Primero realizamos un boseto de como queriamos que quede el primer pantallazo de la trivia en el cual se muestra el nombre de nuestro proyecto y se le pide el nombre al usuario, quedando algo asi:
 
 *imagen*
+
 
 ### Estructura
 
@@ -16,7 +19,8 @@ Teniendo ya la idea básica de lo que queriamos plasmar nos pusimos a trabajar. 
 
 De igual manera nos guió para organizar por secciones el HTML.
 
-<img src='inicios-html.JPG'> 
+<img src='inicios-html.JPG'>
+
 
 ### Codeando
 
@@ -27,6 +31,6 @@ En este punto ya le empezamos a dar un poco de forma y color con el CSS al proye
 <img src='trivia-vista-final.JPG'>
 
 
-###Autores
 # Autores
-Andrea Borja y Kateryn Flores
+- Andrea Borja
+- Kateryn Flores
