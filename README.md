@@ -28,4 +28,5 @@ En este punto ya le empezamos a dar un poco de forma y color con el CSS al proye
 
 
 ###Autores
-# Autores: Andrea Borja y Kateryn Flores
+# Autores
+Andrea Borja y Kateryn Flores
