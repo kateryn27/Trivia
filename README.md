@@ -10,7 +10,10 @@ En este proyecto se busca construir una trivia de preguntas, los temas que escog
 
 Primero realizamos un boseto de como queriamos que quede el primer pantallazo de la trivia en el cual se muestra el nombre de nuestro proyecto y se le pide el nombre al usuario, quedando algo asi:
 
-*imagen*
+<img src='Whiteboard[1]-01.png'>
+
+
+
 
 
 # Estructura
